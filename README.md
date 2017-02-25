@@ -1,5 +1,5 @@
 # BigData-and-Machine-Learning
-*This repository contains **Scala** code with examples and projects using **Apache Spark** for **Big Data** and **Machine Learning**.*
+This repository contains **Scala** code with examples and projects using **Apache Spark** for **Big Data** and **Machine Learning**.
 
 # Repository Contents:
 ##1. Scala Basics:
